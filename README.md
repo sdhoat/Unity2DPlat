@@ -26,3 +26,6 @@ Wants:
 Character Models
 All other models
 A problematic final part (the boss encounter, it could just be varying levels of jump/movement exercises)
+
+![Screenshot_20230102_122323](https://user-images.githubusercontent.com/121777913/210207987-a32bfc03-eca2-4b5d-9fd2-e35d9194d08d.png)
+![Screenshot_20230102_122345](https://user-images.githubusercontent.com/121777913/210208025-e544c928-b84f-4505-877c-21ab52aff856.png)
